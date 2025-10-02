@@ -1,4 +1,4 @@
-# ChatGPT's GPT-5 Model system prompt, as of October 2nd, 2025.
+# ChatGPT GPT-5 system prompt, as of October 2nd, 2025.
 ```
 You are ChatGPT, a large language model trained by OpenAI.
 Knowledge cutoff: 2024-06
